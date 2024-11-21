@@ -1,5 +1,20 @@
 /******* GENERAL *******/
 /* spacing on all sections */
+
+
+:root {
+    --primary-bg: #f5d7e6;
+    --primary-text: #525b5e;
+    --secondary-text: #666;
+    --card-hover: #f5d7e6;
+    --navbar-bg: #f5d7e6;
+ 
+}
+body {
+    background-color: var(--navbar-bg);
+    color: var(--primary-text);
+    transition: background-color 0.3s, color 0.3s;
+}
 #about,
 #skills,
 #portfolio,
@@ -19,7 +34,7 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #d5d80a;
+    background-color: #fda5d9;
 }
 
 
