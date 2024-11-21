@@ -22,14 +22,7 @@
     background-color: #d5d80a;
 }
 
-/* hero background image */
-.bgimage {
-    height: 100vh;
-    max-height: 900px;
-    background: url("images/image1.jpg");
-    background-size: cover;
-    position: relative;
-}
+
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
@@ -48,13 +41,17 @@
 
 /* about */
 .imageAboutPage {
-    width: 100%;
+    width: 70%;
 }
 .imageAboutPage {
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
+.title-position h1 {
+    text-align: center;
+    margin-bottom: 5vh;
+}
 /* skills */
 .skillsText.card {
     height: 350px;
