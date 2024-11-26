@@ -3,14 +3,14 @@
     {
         "image": "Riding-cities.webp",
         "title": "Riding cities",
-        "text": "J'ai appris à structurer des pages web avec HTML, à les styliser avec CSS, et à concevoir des interfaces esthétiques et accessibles en utilisant Figma et Visual Studio Code, renforçant mes compétences en développement web..",
+        "text": "J'ai appris à structurer des pages web avec HTML, à les styliser avec CSS, et à concevoir des interfaces esthétiques et accessibles renforçant mes compétences en développement web.",
         "link": "#"
     },
 
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Conception d'un site depuis une maquette Figma. Utilisation de Flexbox, mise en place de la partie responsive, validation W3C.",
+        "text": "J'ai conçu ce site depuis la maquette Figma en utilisant Flexbox. De plus, la validation W3C du site garantit sa conformité aux normes web et une expérience fluide.",
         "link": "#"
     },
 
@@ -26,13 +26,13 @@
     {
         "image": "Sophie-Bluel.webp",
         "title": "sophie Bluel",
-        "text": "J'ai développé le Front-End d'un site portfolio en JavaScript pour une architecte d'intérieur. Ce projet m'a permis de manipuler le DOM, d'intégrer des modales dynamiques, et de réaliser des appels API pour gérer les projets (connexion, affichage, ajout/suppression). J'ai utilisé Figma, Visual Studio Code et GitHub pour le développement, renforçant mes compétences en interfaces dynamiques et en JavaScript.",
+        "text": "Site portfolio développé en javascript. Manipulation du dom, intégration de modales dynamiques. Appels API, que ce soit pour la connexion, l'affichage des projets, ou bien l'ajout/suppression de projets",
         "link": "#"
     },
     {
         "image": "Kasa.webp",
         "title": "Kasa",
-        "text": "Refonte complète d'un site de location immobilière avec React, incluant l'ajout d'un carrousel et de collapses pour le rendre plus moderne et interactif.",
+        "text": " Dans ce projet, j'ai fait une refonte complète d'un site de location immobilière avec React, incluant l'ajout d'un carrousel et de collapses pour le rendre plus moderne et interactif. ",
         "link": "#"
     },
 
@@ -60,7 +60,7 @@
     {
         "image": "Tomsen.webp",
         "title": "Tomsen",
-        "text": "Conception de la stratégie de test d'un projet en analysant les spécifications et la maquette, rédaction du cahier de recettes et revue des exigences, conception de la stratégie de test .",
+        "text": "Dans ce projet, j’ai étudié les spécifications de l’application pour identifier les fonctionnalités à tester et définir une stratégie de test adaptée au cycle de développement agile, rédaction de la revue des exigences, conception de la stratégie de test et du cahier de recettes.",
         "link": "#"
     }
 

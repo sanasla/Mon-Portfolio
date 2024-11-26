@@ -8,7 +8,9 @@
     --secondary-text: #666;
     --card-hover: #f5d7e6;
     --navbar-bg: #f5d7e6;
- 
+   
+   
+  
 }
 body {
     background-color: var(--navbar-bg);
@@ -33,11 +35,27 @@ body {
 }
 
 /* display background dark color on navbar scroll */
+
+.fixed-top{
+    background-color:#f34ca0 ;
+    height:50px;
+}
 .navbarScroll.navbarDark {
-    background-color: #fda5d9;
+    background-color: #f34ca0;
+}
+.navbarDark {
+    color:#b749ae;
 }
 
+.navbar-dark .navbar-nav .nav-link:hover {
 
+    color:white;
+  
+}
+
+.navbar-dark .navbar-nav .nav-link {
+     color: white; 
+}
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
@@ -54,11 +72,11 @@ body {
     color: white;
 }
 
-/* about */
+/* section about */
+
 .imageAboutPage {
-    width: 70%;
-}
-.imageAboutPage {
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
@@ -69,8 +87,12 @@ body {
 }
 /* skills */
 .skillsText.card {
-    height: 350px;
-    cursor: pointer;
+    height: 370px;
+    background-color: var(--primary-bg);
+    color: var(--primary-text);
+    border-radius: 60px;
+    border: 2px solid;
+    transition: transform 0.3s, box-shadow 0.3s;
 }
 .skillsText img {
     width: 100%;
@@ -99,7 +121,11 @@ body {
 #portfolio p {
     text-align: center;
 }
-
+.card-img-top {
+    height:164px;
+    width: auto;
+    object-fit: cover;
+}
 /* contact */
 .contactColumn {
     display: flex;
