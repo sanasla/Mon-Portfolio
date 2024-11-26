@@ -24,8 +24,11 @@ Ce portfolio inclut :
 
 # Utilisation
 1- Ouvrez le projet dans Visual Studio Code.
+
 2- Installez l'extension Live Server si ce n'est pas déjà fait.
+
 3- Cliquez avec le bouton droit sur le fichier index.html et sélectionnez "Open with Live Server".
+
 4- Le site sera accessible à une adresse spécifiée par Live Server.
 
 # Optimisations et Corrections
@@ -60,12 +63,17 @@ Ce projet a été développé en utilisant les technologies suivantes :
 
 #  déploiement
 
+Le site est déployé sur GitHub Pages et est accessible à l'adresse suivante : 
+
+  a completer
+
 
 # Contact
 
 Pour toute question ou collaboration, vous pouvez me contacter via :
 
 Email : sana.slama2017@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/sana-slama-72a661233/
 
 
