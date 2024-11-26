@@ -21,22 +21,22 @@
         "image": "Print-it.webp",
         "title": "Print-it",
         "text": "J'ai développé un carrousel interactif avec JavaScript et géré le versionnement via GitHub, consolidant mes compétences en fonctionnalités dynamiques et interactives.",
-        "link": "#",
-        "alt": "Image de couverture du sPrint-it"
+        "link": "https://github.com/sanasla/OCR-JS-projet6",
+        "alt": "Image de couverture du Print-it"
     },
 
     {
         "image": "Sophie-Bluel.webp",
         "title": "sophie Bluel",
         "text": "Site portfolio développé en javascript. Manipulation du dom, intégration de modales dynamiques. Appels API, que ce soit pour la connexion, l'affichage des projets, ou bien l'ajout/suppression de projets",
-        "link": "#",
+        "link": "https://github.com/sanasla/Projet-7-Sophie-Bluel",
         "alt": "Image de couverture du site Sophie"
     },
     {
         "image": "Kasa.webp",
         "title": "Kasa",
         "text": " Dans ce projet, j'ai fait une refonte complète d'un site de location immobilière avec React, incluant l'ajout d'un carrousel et de collapses pour le rendre plus moderne et interactif. ",
-        "link": "#",
+        "link": "https://github.com/sanasla/projet8-kaza",
         "alt": "Image de couverture du site Kaza"
     },
 
@@ -60,7 +60,7 @@
         "image": "EcoBlissBath.webp",
         "title": "EcoBlissBat",
         "text": "Automatisation des tests pour l'application de vente en ligne d'Eco Bliss Bath avec Cypress. J'ai sélectionné les scénarios critiques, écrit les scripts, et documenté les anomalies détectées dans un bilan de campagne de test, renforçant ainsi mes compétences en automatisation et en documentation précise des tests.",
-        "link": "#",
+        "link": "https://github.com/sanasla/Project10-cypress",
         "alt": "Image de couverture du site Ecoblish"
     },
 
@@ -71,19 +71,6 @@
         "link": "#",
         "alt": "Image de couverture du site Tomsen"
     }
-
- 
-
-
-
-    
-
-
-
-
-
-
-
 
 ]
 
