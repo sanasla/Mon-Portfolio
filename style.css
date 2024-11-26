@@ -37,14 +37,14 @@ body {
 /* display background dark color on navbar scroll */
 
 .fixed-top{
-    background-color:#f34ca0 ;
+    background-color: #a249b7;
     height:50px;
 }
 .navbarScroll.navbarDark {
-    background-color: #f34ca0;
+    background-color: #a249b7;  
 }
 .navbarDark {
-    color:#b749ae;
+    color:#a249b7;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
@@ -77,6 +77,7 @@ body {
     height: 250px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin: 10px;
 }
 
 .title-position h1 {
