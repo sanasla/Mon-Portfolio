@@ -13,7 +13,7 @@
         "image": "image1.png",
         "title": "Booki",
         "text": "J'ai conçu ce site depuis la maquette Figma en utilisant Flexbox. De plus, la validation W3C du site garantit sa conformité aux normes web et une expérience fluide.",
-        "link": "#",
+        "link": "https://sanasla.github.io/booki/",
         "alt": "Image de couverture du site Booki"
     },
 
@@ -21,14 +21,14 @@
         "image": "Print-it.webp",
         "title": "Print-it",
         "text": "J'ai développé un carrousel interactif avec JavaScript et géré le versionnement via GitHub, consolidant mes compétences en fonctionnalités dynamiques et interactives.",
-        "link": "https://github.com/sanasla/OCR-JS-projet6",
+        "link": "https://sanasla.github.io/OCR-JS-projet6/",
         "alt": "Image de couverture du Print-it"
     },
 
     {
         "image": "Sophie-Bluel.webp",
         "title": "sophie Bluel",
-        "text": "Site portfolio développé en javascript. Manipulation du dom, intégration de modales dynamiques. Appels API, que ce soit pour la connexion, l'affichage des projets, ou bien l'ajout/suppression de projets",
+        "text": "Site portfolio développé en javascript. Manipulation du dom, intégration de modales dynamiques. Appels API, que ce soit pour la connexion, l'affichage des projets, ou bien l'ajout/suppression de projets.",
         "link": "https://github.com/sanasla/Projet-7-Sophie-Bluel",
         "alt": "Image de couverture du site Sophie"
     },
@@ -41,34 +41,36 @@
     },
 
     {
-        "image": "724-Events.webp",
-        "title": "724 events",
-        "text": "Réalisation de tests manuels et exploratoires pour identifier les anomalies avant mise en production, élaboration et mise à jour d’un cahier de recettes, et bilan des campagnes de test.",
-        "link": "#" ,
-        "alt": "Image de couverture du site 724 events"
+        "image": "EcoBlissBath.webp",
+        "title": "EcoBlissBat",
+        "text": "Automatisation des tests en sélectionnant soigneusement les scénarios critiques, écrivant les scripts avec Cypress, puis rédaction du bilan de campagne.",
+        "link": "https://github.com/sanasla/Project10-cypress",
+        "alt": "Image de couverture du site Ecoblish"
+        
     },
 
     {
         "image": "Menu-Maker.webp",
         "title": "Menu Maker",
         "text": "Planification du développement d’un site web avec rédaction de spécifications techniques et organisation du travail via Trello. Veille technologique régulière avec Feedly pour rester à jour, et présentation d’une solution technique traduisant efficacement les besoins en solutions concrètes.",
-        "link": "#",
         "alt": "Image de couverture du site Menu Maker"
     },
 
     {
-        "image": "EcoBlissBath.webp",
-        "title": "EcoBlissBat",
-        "text": "Automatisation des tests pour l'application de vente en ligne d'Eco Bliss Bath avec Cypress. J'ai sélectionné les scénarios critiques, écrit les scripts, et documenté les anomalies détectées dans un bilan de campagne de test, renforçant ainsi mes compétences en automatisation et en documentation précise des tests.",
-        "link": "https://github.com/sanasla/Project10-cypress",
-        "alt": "Image de couverture du site Ecoblish"
+        "image": "724-Events.webp",
+        "title": "724 events",
+        "link": null,
+       
+        "text": "Réalisation de tests manuels et exploratoires pour identifier les anomalies avant mise en production, élaboration  d’un cahier de recettes. Un suivi rigoureux a été effectué avec la rédaction des bilans des campagnes de test, garantissant la qualité et la conformité des livrables.",
+        "alt": "Image de couverture du site 724 events"
+        
+       
     },
 
     {
         "image": "Tomsen.webp",
         "title": "Tomsen",
         "text": "Dans ce projet, j’ai étudié les spécifications de l’application pour identifier les fonctionnalités à tester et définir une stratégie de test adaptée au cycle de développement agile, rédaction de la revue des exigences, conception de la stratégie de test et du cahier de recettes.",
-        "link": "#",
         "alt": "Image de couverture du site Tomsen"
     }
 

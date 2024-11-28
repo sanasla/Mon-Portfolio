@@ -134,5 +134,21 @@ body {
 .contactColumn i {
     color: #198754;
 }
+.row{
+    justify-content: space-evenly;
+}
+
+
+@media (max-width: 992px){
+    .row>*{
+        width: auto !important; 
+        }
+    .navbar-dark .navbar-nav .nav-link {
+        color:#a249b7; 
+        font-weight: bold;
+        }
+    }
+
+   
 
 /* footer */
