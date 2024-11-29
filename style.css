@@ -8,8 +8,7 @@
     --secondary-text: #666;
     --card-hover: #f5d7e6;
     --navbar-bg: #f5d7e6;
-   
-   
+      
   
 }
 body {
@@ -54,6 +53,41 @@ body {
 .navbar-dark .navbar-nav .nav-link {
      color:  #ffffff;; 
 }
+
+@media (max-width: 992px) {
+    .navbar {
+        background-color: #a249b7; /* Fond par défaut */
+    }
+
+    
+
+    /* Ajoutez cette règle pour le menu ouvert */
+    .navbar-collapse.show {
+        background-color: #a249b7; /* Fond quand le menu est ouvert */
+    }
+
+
+
+    .navbar-collapse {
+        position: absolute; /* Positionner par rapport à la navbar */
+        top: 100%; /* Juste en dessous de la barre */
+        left: 0;
+        width: 100%; /* S'étend sur toute la largeur */
+        background-color: #a249b7; /* Assurez-vous que le fond est le même */
+        z-index: 10; /* S'assure qu'il est au-dessus des autres éléments */
+        margin: 0; /* Supprime tout décalage */
+        padding: 0; /* Supprime les espaces inutiles */
+    }
+
+    .navbar-toggler {
+        position: relative; /* Ajustez si nécessaire */
+        z-index: 11; /* Au-dessus du menu */
+    }
+}
+
+
+
+
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
@@ -92,6 +126,7 @@ body {
     border-radius: 60px;
     border: 2px solid;
     transition: transform 0.3s, box-shadow 0.3s;
+  
 }
 .skillsText img {
     width: 100%;
@@ -109,11 +144,9 @@ body {
 .card-title {
     text-align: center;
 }
-.card:hover .skillsIcon {
-    color: #008000;
-}
 .skillsText:hover {
-    border: 1px solid #008000;
+    transform: scale(1.05);
+   
 }
 
 /* portfolio */
@@ -125,6 +158,7 @@ body {
     width: auto;
     object-fit: cover;
 }
+
 /* contact */
 .contactColumn {
     display: flex;
@@ -139,16 +173,9 @@ body {
 }
 
 
-@media (max-width: 992px){
-    .row>*{
-        width: auto !important; 
-        }
-    .navbar-dark .navbar-nav .nav-link {
-        color:#a249b7; 
-        font-weight: bold;
-        }
-    }
-
    
 
 /* footer */
+
+
+
