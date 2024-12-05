@@ -42,16 +42,13 @@ body {
 .navbarScroll.navbarDark {
     background-color: #a249b7;  
 }
-.navbarDark {
-    color:#a249b7;
-}
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #ffd7e8;
+    color: #a08f2c; /* Couleur au survol */
 }
 
 .navbar-dark .navbar-nav .nav-link {
-     color:  #ffffff;; 
+     color:  #ffffff;;  /* Couleur des liens */
 }
 
 @media (max-width: 992px) {
@@ -88,7 +85,7 @@ body {
 
 
 
-/* text css above hero image*/
+/* text css above hero image pas de changement ici*/
 .hero_title {
     font-size: 4.5rem;
 }
@@ -107,12 +104,14 @@ body {
 /* section about */
 
 .imageAboutPage {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-    margin: 10px;
+    margin: 40px;
+    
 }
+
 
 .title-position h1 {
     text-align: center;

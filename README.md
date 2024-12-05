@@ -39,7 +39,9 @@ Le projet a commencé par la correction des bugs existants et l'optimisation du 
 
  1- Icônes Font Awesome non affichées : Le problème était causé par l'absence du lien vers la feuille de style de Font Awesome dans le fichier HTML. La solution a consisté à ajouter le lien approprié dans la balise <head>, avant le lien vers Bootstrap, afin d'assurer le bon chargement des icônes.
 
- 2- Problèmes d'affichage dynamique : Une erreur de syntaxe a été corrigée dans le script, garantissant ainsi le bon fonctionnement de l'affichage dynamique du site.
+ 2- Problèmes d'affichage dynamique : Une erreur de syntaxe a été corrigée dans le script.js, garantissant ainsi le bon fonctionnement de l'affichage dynamique du site.
+
+ 3-Les textes alternatives des images ainsi que leur Format: J'ai ajouté des textes alternatives à tous les images aussi je les a compressé grace au webp
 
    ## Voici un résumé des optimisations effectuées :
 

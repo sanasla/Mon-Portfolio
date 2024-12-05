@@ -1,14 +1,4 @@
 [
-
-    {
-        "image": "Riding-cities.webp",
-        "title": "Riding cities",
-        "text": "J'ai appris à structurer des pages web avec HTML, à les styliser avec CSS, et à concevoir des interfaces esthétiques et accessibles renforçant mes compétences en développement web.",
-        "link": "#",
-        "alt": "Image de couverture du siteRiding sities"
-       
-    },
-
     {
         "image": "image1.png",
         "title": "Booki",
@@ -60,7 +50,6 @@
         "image": "724-Events.webp",
         "title": "724 events",
         "link": null,
-       
         "text": "Réalisation de tests manuels et exploratoires pour identifier les anomalies avant mise en production, élaboration  d’un cahier de recettes. Un suivi rigoureux a été effectué avec la rédaction des bilans des campagnes de test, garantissant la qualité et la conformité des livrables.",
         "alt": "Image de couverture du site 724 events"
         
