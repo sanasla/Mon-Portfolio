@@ -44,7 +44,7 @@ body {
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #a08f2c; /* Couleur au survol */
+    color: #f1cf11; /* Couleur au survol */
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -157,6 +157,10 @@ body {
     width: auto;
     object-fit: cover;
 }
+.portfolioContent:hover {
+    transform: scale(1.05);
+   
+}
 
 /* contact */
 .contactColumn {
@@ -171,7 +175,11 @@ body {
     justify-content: space-evenly;
 }
 
+.col-lg-4 i:hover {
+    transform: scale(1.05);
+    color:  #f1cf11
 
+}
    
 
 /* footer */
